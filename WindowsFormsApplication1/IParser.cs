@@ -10,7 +10,7 @@ namespace WindowsFormsApplication1
     public class Zero : IParser
     {
         public Result Parser(string target)
-        {
+        {dfdf
             return Result.Success(string.Empty, target);
         }
     }
