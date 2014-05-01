@@ -1,0 +1,7 @@
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\TestProject1\bin\Debug\TestProject1.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\TestProject1\bin\Debug\TestProject1.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\TestProject1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\TestProject1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\TestProject1\obj\Debug\TestProject1.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\TestProject1\obj\Debug\TestProject1.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\TestProject1\obj\Debug\TestProject1.pdb
